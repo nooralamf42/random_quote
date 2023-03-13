@@ -34,3 +34,13 @@ h3{
     width: 70%;
     margin: 32vh auto 0;
 }
+
+@media (max-width:545px) {
+    .content-box{
+        margin-top: 27vh;
+        padding-left: 35px;
+    }
+    body{
+        background-size: auto;
+    }
+}
